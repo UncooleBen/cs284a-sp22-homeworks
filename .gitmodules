@@ -1,0 +1,12 @@
+[submodule "p1-rasterizer-sp22-sigsegv"]
+	path = p1-rasterizer-sp22-sigsegv
+	url = https://github.com/UncooleBen/p1-rasterizer-sp22-sigsegv
+[submodule "p2-meshedit-sp22-lajolla"]
+	path = p2-meshedit-sp22-lajolla
+	url = https://github.com/UncooleBen/p2-meshedit-sp22-lajolla
+[submodule "p3-1-pathtracer-sp22-bww"]
+	path = p3-1-pathtracer-sp22-bww
+	url = https://github.com/UncooleBen/p3-1-pathtracer-sp22-bww
+[submodule "p3-2-pathtracer-sp22-cs267"]
+	path = p3-2-pathtracer-sp22-cs267
+	url = https://github.com/UncooleBen/p3-2-pathtracer-sp22-cs267
